@@ -5,6 +5,10 @@ html, body {
   background: #3C7ACD;
 }
 
+h4 {
+  font-size: 5px;
+}
+
 body {
   display: flex;
   justify-content: center;
@@ -125,7 +129,7 @@ body {
   margin-left: 10%;
   margin-top: 5%;
   opacity: 0.7;
-  font-size: 18px;
+  font-size: 15px;
   font-family: "Roboto Condensed";
 }
 
@@ -134,7 +138,7 @@ body {
   right: 8%;
   top: -11%;
   opacity: 0.7;
-  font-size: 16px;
+  font-size: 15px;
   font-family: "Roboto Condensed";
 }
 
